@@ -147,3 +147,13 @@ font-weight: lighter;
 margin: 5px;
 
 }
+
+.droite a {
+  color:#5A61AE;
+  font-size: 10px;
+  text-decoration: none;
+}
+
+.droite a:hover {
+  text-decoration: underline;
+}
