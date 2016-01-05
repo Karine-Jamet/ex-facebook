@@ -157,3 +157,13 @@ margin: 5px;
 .droite a:hover {
   text-decoration: underline;
 }
+
+.droite select {
+    border: 1px solid rgba(0, 0, 0, 0.4);
+    background-color:lightgrey;
+    color:black;
+    height:30px;
+    padding-left: 10px;
+    width: 80px;
+
+}
